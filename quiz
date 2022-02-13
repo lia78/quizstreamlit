@@ -7,4 +7,4 @@ features = st.beta_container()
 modelTraining = st.beta_container() 
 
 with header:
-	st.Title('Welcomw to Quiz!')
+	st.title('Welcome to Quiz!')
